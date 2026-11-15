@@ -1,0 +1,4 @@
+
+Bienvenue dans le TP9 Java.
+Nous apprenons les exceptions.
+Cet exercice concerne la lecture des fichiers.
